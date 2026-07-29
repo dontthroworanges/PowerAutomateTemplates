@@ -1,4 +1,6 @@
 # Add Value to SharePoint Term Store
+Use this template to push a value to the SharePoint Term Store. 
+## Basic Version
 Action Used: 
 ```
 Send Http Request to SharePoint
@@ -20,7 +22,7 @@ Body:
 {
     "labels": [
         {
-            "name": "{StringToInsert}",
+            "name": "{YouTermName}",
             "isDefault": true,
             "languageTag": "en-US"
         }
