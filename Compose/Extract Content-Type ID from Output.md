@@ -1,5 +1,5 @@
 # Extract Content-Type ID from Action Output
-If you used the 'Retrieve Content-Type Information...' action, use this template to extract the Content-Type StringID for use in other actions. 
+If you used the ['Retrieve Content-Type Information...'](Send Http Request to SharePoint/Retrieve Content-Type Information from SharePoint Document Library.md) action, use this template to extract the Content-Type StringID for use in other actions. 
 
 Action Used: 
 ```
