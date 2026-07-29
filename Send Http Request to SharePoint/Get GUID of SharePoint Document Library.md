@@ -17,7 +17,7 @@ GET
 ```
 URI:
 ```
-_api/web/lists/getbytitle('{LibraryTitle}')
+_api/web/lists/getbytitle('<LibraryTitle>')
 ```
 Headers:
 ```

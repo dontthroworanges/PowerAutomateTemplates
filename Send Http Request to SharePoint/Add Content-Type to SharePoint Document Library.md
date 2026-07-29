@@ -17,7 +17,7 @@ POST
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourTargetLibraryGUID}')/contenttypes/addAvailableContentType
+_api/web/lists/getbyID('<YourTargetLibraryGUID>')/contenttypes/addAvailableContentType
 ```
 Headers:
 ```
@@ -29,6 +29,6 @@ Headers:
 Body:
 ```
 {
-  "contentTypeId": "{YourContentTypeID}"
+  "contentTypeId": "<YourContentTypeID>"
 }
 ```

@@ -9,5 +9,5 @@ Compose
 ```
 Expression:
 ```
-first(body('Filter_array'))?['NameOfColumnToReturn']
+first(body('Filter_array'))?['<NameOfColumnToReturn>']
 ```

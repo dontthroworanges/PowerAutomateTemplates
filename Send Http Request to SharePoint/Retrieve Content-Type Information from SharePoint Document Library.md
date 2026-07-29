@@ -17,5 +17,5 @@ GET
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourLibraryGUID}')/ContentTypes?$filter=Name eq 'Document'
+_api/web/lists/getbyID('<YourLibraryGUID>')/ContentTypes?$filter=Name eq 'Document'
 ```

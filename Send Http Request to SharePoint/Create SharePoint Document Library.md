@@ -34,6 +34,6 @@ Body:
    'BaseTemplate':101,   
    'ContentTypesEnabled':true,  
    'Description':"",   
-   'Title': '{TitleOfNewDocLibrary}'
+   'Title': '<TitleOfNewDocLibrary>'
 }
 ```

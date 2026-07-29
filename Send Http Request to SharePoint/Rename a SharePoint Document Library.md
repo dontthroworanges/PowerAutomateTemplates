@@ -20,7 +20,7 @@ POST
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourDocumentLibraryGUID}')
+_api/web/lists/getbyID('<YourDocumentLibraryGUID>')
 ```
 Headers:
 ```
@@ -37,6 +37,6 @@ Body:
   "__metadata": {
     "type": "SP.List"
   },
-  "Title": "{NewDocumentLibraryName}"
+  "Title": "<NewDocumentLibraryName>"
 }
 ```

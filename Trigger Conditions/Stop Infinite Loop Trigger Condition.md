@@ -5,5 +5,5 @@
 
 Trigger Condition:
 ```
-@not(equals(triggerOutputs()?['body/Editor/DisplayName'],'username'))
+@not(equals(triggerOutputs()?['body/Editor/DisplayName'],'<yourserviceaccountusername>'))
 ```

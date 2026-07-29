@@ -8,5 +8,5 @@ Compose
 ```
 Expression:
 ```
-outputs('{YourRetieveContentTypeAction}')?['body']?['d']?['results']?[0]?['StringId']
+outputs('<YourRetieveContentTypeAction>')?['body']?['d']?['results']?[0]?['StringId']
 ```

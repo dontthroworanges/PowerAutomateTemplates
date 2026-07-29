@@ -17,7 +17,7 @@ POST
 ```
 URI:
 ```
-_api/v2.1/termStore/groups('{termgroupID}')/sets('{termsetID}')/children
+_api/v2.1/termStore/groups('<termgroupID>')/sets('<termsetID>')/children
 ```
 ### Term Only - No Synonyms or Additional Properties
 Body:
@@ -25,7 +25,7 @@ Body:
 {
     "labels": [
         {
-            "name": "{TermName}",
+            "name": "<TermName>",
             "isDefault": true,
             "languageTag": "en-US"
         }
@@ -39,24 +39,24 @@ Body:
 {
     "labels": [  
         {  
-            "name": "{TermName}",  
+            "name": "<TermName>",  
             "isDefault": true,  
             "languageTag": "en-US"  
         },
         {  
-            "name": "{Synonym1}",
+            "name": "<Synonym1>",
             "isDefault": false,  
             "languageTag": "en-US"  
         },
         {  
-            "name": "{Synonym2}",
+            "name": "<Synonym2>",
             "isDefault": false,  
             "languageTag": "en-US"  
         }
     ],  
     "descriptions": [  
         {  
-            "description": "{YourTermDescription}",  
+            "description": "<YourTermDescription>",  
             "languageTag": "en-US"  
         }  
     ]  

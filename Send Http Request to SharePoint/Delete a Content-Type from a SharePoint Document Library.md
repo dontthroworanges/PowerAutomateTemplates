@@ -17,6 +17,6 @@ POST
 ```
 URI:
 ```
-_api/web/lists/getbytitle('{YourLibraryGUID}')/ContentTypes('{ContentTypeIDToBeDeleted}')/deleteObject() 
+_api/web/lists/getbyID('<YourLibraryGUID>')/ContentTypes('<ContentTypeIDToBeDeleted>')/deleteObject() 
 ```
 

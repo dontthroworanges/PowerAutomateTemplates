@@ -17,7 +17,7 @@ POST
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourDocumentLibraryGUID}')/items({YourItemIDToDelete})
+_api/web/lists/getbyID('<YourDocumentLibraryGUID>')/items(<YourItemIDToDelete>)
 ```
 Headers:
 ```

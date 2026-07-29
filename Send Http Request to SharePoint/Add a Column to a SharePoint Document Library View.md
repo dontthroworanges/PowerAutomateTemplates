@@ -17,7 +17,7 @@ POST
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourDocLibraryGUID}')/views/getByTitle('{ViewNameToAddColumnTo}')/viewfields/addviewfield('{InternalColumnNameToAddToView}')
+_api/web/lists/getbyID('<YourDocLibraryGUID>')/views/getByTitle('<ViewNameToAddColumnTo>')/viewfields/addviewfield('<InternalColumnNameToAddToView>')
 ```
 Headers:
 ```

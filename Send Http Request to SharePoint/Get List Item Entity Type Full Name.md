@@ -17,5 +17,5 @@ GET
 ```
 URI:
 ```
-_api/web/lists/getbyID('{YourDocLibraryGUID}')?$select=ListItemEntityTypeFullName
+_api/web/lists/getbyID('<YourDocLibraryGUID>')?$select=ListItemEntityTypeFullName
 ```
