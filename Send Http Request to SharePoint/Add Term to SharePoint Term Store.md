@@ -23,9 +23,38 @@ Body:
 {
     "labels": [
         {
-            "name": "{YouTermName}",
+            "name": "{TermName}",
             "isDefault": true,
             "languageTag": "en-US"
         }
     ]
+}
+
+### Term Only - No Synonyms or Additional Properties
+Body:
+```
+{
+    "labels": [  
+        {  
+            "name": "{TermName}",  
+            "isDefault": true,  
+            "languageTag": "en-US"  
+        },
+        {  
+            "name": "{Synonym1}",
+            "isDefault": false,  
+            "languageTag": "en-US"  
+        },
+        {  
+            "name": "{Synonym2}",
+            "isDefault": false,  
+            "languageTag": "en-US"  
+        }
+    ],  
+    "descriptions": [  
+        {  
+            "description": "{YourTermDescription}",  
+            "languageTag": "en-US"  
+        }  
+    ]  
 }
