@@ -29,6 +29,7 @@ Body:
         }
     ]
 }
+```
 
 ### Term Only - No Synonyms or Additional Properties
 Body:
