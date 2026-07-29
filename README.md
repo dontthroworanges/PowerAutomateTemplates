@@ -3,8 +3,8 @@
 > I'm not a developer. This stuff works for me but use at your own risk!
 
 ### About Me
-I'm not a developer, or have the mind to create expressions, API calls, etc. So, whenever I have to use Power Automate for my job, it feels like banging my head against a wall.
+Hi I'm Dan. I've been working with SharePoint since 2010 and more and more I must use Power Automate to complete my projects. I will be the first person to tell you that I don't have the mind of a developer, or can easily create expressions, API calls, etc. So, whenever I have to use Power Automate for my job, it feels like banging my head against a wall.
 ### What this repository is about
-Basically, this repository is just a place to stash stuff in a format that I like and understand. Once I find an expression or a "template" of sorts that works the way I want it to, I post it here, so I don't need to remember everything. If this content helps you as well, then great. 
+This repository is a place where I can save and recall Power Automate actions in a format that I like. Once I figure out an action or expression that works the way I want it to, I post it here, so I don't need to remember everything. If you are in the same position, then this content might help you out as well.
 
 
