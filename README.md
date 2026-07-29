@@ -1,5 +1,5 @@
 # About
-> [!CAUTION]
+> [!WARNING]
 > I'm not a developer or really claim to know what I am doing. This stuff works for me but use at your own risk!
 
 ### About Me
