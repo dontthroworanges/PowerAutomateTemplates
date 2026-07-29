@@ -1,6 +1,6 @@
-# Add Value to SharePoint Term Store
-Use this template to push a term to the SharePoint Term Store. 
-## Basic Version
+# Add Term to SharePoint Term Store
+Use this template to push a term to the SharePoint Term Store using the 'Send HTTP Request to SharePoint' action.
+
 Action Used: 
 ```
 Send Http Request to SharePoint
@@ -17,6 +17,7 @@ URI:
 ```
 _api/v2.1/termStore/groups('{termgroupID}')/sets('{termsetID}')/children
 ```
+### Term Only - No Synonyms or Additional Properties
 Body:
 ```
 {
