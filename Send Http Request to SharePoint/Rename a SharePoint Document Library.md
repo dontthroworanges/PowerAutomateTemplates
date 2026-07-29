@@ -4,6 +4,8 @@
 > [!NOTE]
 > This does not alter the URL of the library. It only updates the Display Name. 
 
+## Action Template
+
 Action Used: 
 ```
 Send Http Request to SharePoint

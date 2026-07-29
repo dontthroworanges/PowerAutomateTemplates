@@ -1,6 +1,8 @@
 # Get File Count from Get Files (Properties Only) Action
 > Returns the count of files found by the Get Files (Properties Only) action.
 
+## Action Template
+
 Action Used: 
 ```
 Compose

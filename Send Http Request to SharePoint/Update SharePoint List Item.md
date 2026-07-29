@@ -1,6 +1,8 @@
 # Update SharePoint List Item
 > Use this action to update one or more fields in a SharePoint list. Using the 'Send HTTP Request to SharePoint' method avoids having potential blank values inserted into columns which do not need to be updated.
 
+## Action Template
+
 Action Used: 
 ```
 Send Http Request to SharePoint

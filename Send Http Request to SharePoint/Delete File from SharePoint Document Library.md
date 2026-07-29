@@ -1,6 +1,8 @@
 # Delete a file from a SharePoint Document Library
 > Use this template to delete a file from a SharePoint document library view using the 'Send HTTP Request to SharePoint' action.
 
+## Action Template
+
 Action Used: 
 ```
 Send Http Request to SharePoint

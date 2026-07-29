@@ -1,6 +1,8 @@
 # Add Term to SharePoint Term Store
 > Use this template to push a term to the SharePoint Term Store using the 'Send HTTP Request to SharePoint' action.
 
+## Action Template
+
 Action Used: 
 ```
 Send Http Request to SharePoint

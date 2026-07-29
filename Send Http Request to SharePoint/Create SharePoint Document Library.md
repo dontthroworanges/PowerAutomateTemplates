@@ -1,6 +1,8 @@
 # Create a SharePoint Document Library
 > Use this template to create a new SharePoint document library using the 'Send HTTP Request to SharePoint' action.
 
+## Action Template
+
 Action Used: 
 ```
 Send Http Request to SharePoint
