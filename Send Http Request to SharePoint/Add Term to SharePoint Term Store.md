@@ -1,5 +1,5 @@
 # Add Value to SharePoint Term Store
-Use this template to push a value to the SharePoint Term Store. 
+Use this template to push a term to the SharePoint Term Store. 
 ## Basic Version
 Action Used: 
 ```
