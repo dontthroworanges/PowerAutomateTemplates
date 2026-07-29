@@ -15,5 +15,5 @@ GET
 ```
 URI:
 ```
-_api/v2.1/termStore/sets/{setId}/terms?$filter=labels/any(l:l/name eq '{YourMatchingValue')
+_api/v2.1/termStore/sets/{setId}/terms?$filter=labels/any(l:l/name eq '{YourMatchingValue}')
 ```
