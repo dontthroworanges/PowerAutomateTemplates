@@ -31,7 +31,7 @@ Body:
 }
 ```
 
-### Term Only - No Synonyms or Additional Properties
+### Term with Synonyms and Description
 Body:
 ```
 {
