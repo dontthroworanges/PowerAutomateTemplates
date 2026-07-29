@@ -5,7 +5,7 @@
 
 Action Used: 
 ```
-Send Http Request to SharePoint
+Send HTTP Request to SharePoint
 ```
 Site Address:
 ```
