@@ -12,7 +12,7 @@ Send Http Request to SharePoint
 ```
 Site Address:
 ```
-Enter your site URL
+<YourSiteURL>
 ```
 Method:
 ```
