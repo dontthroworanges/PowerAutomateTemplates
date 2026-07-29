@@ -1,6 +1,6 @@
 # About
 > [!CAUTION]
-> I'm not a developer. This stuff works for me but use at your own risk!
+> I'm not a developer or really claim to know what I am doing. This stuff works for me but use at your own risk!
 
 ### About Me
 Hi I'm Dan. I've been working with SharePoint since 2010 and more and more I must use Power Automate to complete my projects. I will be the first person to tell you that I don't have the mind of a developer, or can easily create expressions, API calls, etc. So, whenever I have to use Power Automate for my job, it feels like banging my head against a wall.
