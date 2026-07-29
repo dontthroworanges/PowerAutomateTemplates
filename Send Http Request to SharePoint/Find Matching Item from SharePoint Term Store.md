@@ -1,5 +1,5 @@
 # Find Matching Item from SharePoint Term Store
-Use this template to retrieve a matching item from the SharePoint Term Store. 
+> Use this template to retrieve a matching item from the SharePoint Term Store. 
 
 Action Used: 
 ```

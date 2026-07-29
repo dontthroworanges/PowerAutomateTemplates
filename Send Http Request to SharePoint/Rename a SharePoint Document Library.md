@@ -1,5 +1,5 @@
 # Rename a SharePoint Document Library
-Use this template to rename a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
+> Use this template to rename a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
 
 > [!NOTE]
 > This does not alter the URL of the library. It only updates the Display Name. 

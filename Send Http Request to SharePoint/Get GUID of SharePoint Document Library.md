@@ -1,5 +1,5 @@
 # Get GUID of SharePoint Document Library
-Use this template to retrieve the GUID of a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
+> Use this template to retrieve the GUID of a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
 
 Action Used: 
 ```

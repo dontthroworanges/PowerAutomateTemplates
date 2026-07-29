@@ -1,5 +1,5 @@
 # Add Content-Type to SharePoint Document Library
-Use this template to add a Content-Type to a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
+> Use this template to add a Content-Type to a SharePoint document library using the 'Send HTTP Request to SharePoint' action.
 
 Action Used: 
 ```
