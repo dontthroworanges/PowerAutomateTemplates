@@ -9,5 +9,5 @@ Hi I'm Dan. I've been working with SharePoint since 2010 and more and more I mus
 This repository is a place where I can save and recall Power Automate actions in a format that I like. Once I figure out an action or expression that works the way I want it to, I post it here, so I don't need to remember everything. If you are in the same position, then this content might help you out as well.
 
 ### Notes
-- All contents within curly braces {} are placeholders. Omit the curly braces when replacing with your unique contents.
+- All contents within angle brackets <> are placeholders. Omit the angle brackets when replacing with your unique contents.
 - Action Templates/Examples are organized into folders by their parent Action. 
