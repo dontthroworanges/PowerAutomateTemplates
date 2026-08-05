@@ -1,5 +1,5 @@
-# Update SharePoint List Item
-> Use this action to update one or more fields in a SharePoint list. Using the 'Send HTTP Request to SharePoint' method avoids having potential blank values inserted into columns which do not need to be updated. By including 'bNewDocumentUpdate": false' in the body, the version number of the item will not be incremented. 
+# Update SharePoint List or Library Item
+> Use this action to update one or more fields in a SharePoint list. Also works on Library documents as well. Using the 'Send HTTP Request to SharePoint' method avoids having potential blank values inserted into columns which do not need to be updated. By including 'bNewDocumentUpdate": false' in the body, the version number of the item will not be incremented. 
 
 ## Action Template
 
