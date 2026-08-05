@@ -1,4 +1,4 @@
-# Apply a Color to a Colder in SharePoint Document Library
+# Apply a Color to a Folder in SharePoint Document Library
 > Use this template to add an alternative color to a folder within a SharePoint document library using the 'Send HTTP Request to SharePoint' action. You'll need to refer to the [table of available colors below](#Color-Table) to use within the action.
 
 ## Action Template
